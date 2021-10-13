@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="en"
+      dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, user-scalable=no, minimal-ui"/>
+    <meta name="theme-color" content="#c52626">
+
+    <link rel="preconnect" href="https://img-hws.y8.com">
+    <link rel="preconnect" href="https://cdn.y8.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://account.y8.com">
+
+    <link rel="manifest" href="/y8_manifest.json">
+
+    <meta name="X-Current-Skin-Name" content="y8.com" />
+<meta name="X-Current-Skin-Shortname" content="y8" />
+<meta name="X-Current-Skin-Domain" content="y8.com" />
+<meta name="X-Current-Kind-Name" content="game" />
+
+
+    <title>Y8 Games : Free online games at Y8.com</title>
+    <meta name="description" content="Play free games at Y8. The top categories are 2 player games and dress up games. However, simulation games and cooking games are also popular among players. Y8 Games also works on mobile devices and has many touchscreen games for phones. Visit Y8.com and join the player community now." />
+    <meta name="keywords" content="game,games,y8,online games, free online games,y8.com,free games,play free games, play online games, play game, y8y8, 8y" />
+    
+      <meta name="robots" content="noindex, nofollow" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://img-hws.y8.com/assets/y8/favicon-32ba556e0026f47b8a6774c589575902155c4469a8116a68880669d1a5bedd0d.ico" />
+    
+
+    <link rel="stylesheet" media="screen" href="https://img-hws.y8.com/assets/bootstrap-3e383e8a977ad6f5a3fe89fdffd2443dd7bff317e79164b3d24ba6fcdbbf7e1a.css" />
+      <link rel="stylesheet" media="screen" href="https://img-hws.y8.com/assets/y8.com/latin-291a7f7a27c4c5562d0b8b89de7cac95e8a4c187732d374155f23b40563d394d.css" />
+
+    <link rel="icon" sizes="192x192" href="https://img-hws.y8.com/mobile_launch_icons/y8-192.png">
+    <link rel="apple-touch-icon" href="https://img-hws.y8.com/mobile_launch_icons/y8-192.png">
+
+    <script src="https://img-hws.y8.com/assets/ads_block-bdb05adcd9e98c0e0b45359346e83554ef184373947e18de19e5e06b2fad4980.js"></script>
+    
+
+
+    <script src="https://img-hws.y8.com/packs/js/y8/application-9df56f49470ba35a4a33.js"></script>
+    <link rel="stylesheet" media="screen" href="https://img-hws.y8.com/packs/css/y8/application-530bd744.css" />
+
+    <script src="https://img-hws.y8.com/assets/y8-8bc8d39e19917ec3cc7cfac0a327367f3b49148e7fa2d3a9b04422c969418a40.js"></script>
+
+    
+    
+
+    
+
+    
+  </head>
+
+  <body  class="pages not_found games-active" data-controller="Pages" data-action="not_found" data-filter-compatibility-games="true" data-auth-success-path="/auth/idnet/callback">
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+        <div class="y8-navbar-left">
+          <div class="mobile-burger-menu">
+            <span class="burger-btn">
+              <img class="hamburger-icon" src="https://img-hws.y8.com/assets/svg/hamburger-c3fe8358b513e219aa93bfd93e7b3d57991bc5741038ed7db7e71d347db0c6ae.svg" />
+              <img class="hamburger-active-icon" src="https://img-hws.y8.com/assets/svg/hamburger-active-03129c9dbc7bf62fc4cf3b24384c95eca4fafade56f0dfe54ce726cd8a718f2f.svg" />
+            </span>
+          </div>
+          <div class="logo">
+            <a class="no-event" aria-label="logo" href="https://www.y8.com/"><img width="100" height="48" src="https://img-hws.y8.com/assets/y8/header-logo-b39e5071cb111465fc5a5aef6496121adfcb414692d067f967434d9d80418afc.svg" />
+</a>
+          </div>
+
+          <div class="games-videos-switch game">
+  <a href="https://www.y8.com/anim">
+    <div class="games-link">games</div>
+    <div class="videos-link">videos</div>
+  </a>
+</div>
+
+
+          <div class="mobile-search-user-container">
+            <div class="search-btn">
+			        <img src="https://img-hws.y8.com/assets/svg/search-bf75f346b2e476637b80a6838e69801ebd3c18b1ad400fcaf8b3c1ea435da1d5.svg" />
+            </div>
+            <div class="profile-btn">
+              <img class="profile-icon avatar" src="https://img-hws.y8.com/assets/svg/profile-250b58e83592bb66fe437d6de217d30ee3dae674feee2ff962138996fdffde6e.svg" />
+              <img class="arrow-up-icon" src="https://img-hws.y8.com/assets/svg/arrow-up-bec5455682ee6239b995f18944808d8a0c75d7776798386efce255166669e5cf.svg" />
+            </div>
+          </div>
+        </div><!--
+
+        --><form id="items-search-form" class="navbar-form" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+
+          <input type="hidden" name="kind" id="kind" value="game" />
+          <input type="text" name="q" id="q" placeholder="Search games" class="form-control query fake-button" required="required" minlength="2" maxlength="50" pattern=".{2,50}" oninvalid="setCustomValidity(&#39;Must be in between 2 and 50&#39;)" />
+          <button type="submit" aria-label="Search">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+          <span class="close-search-form"></span>
+        </form><!--
+
+        --><div class="y8-navbar-right">
+
+          <a class="fake-button js-top-menu two-lines btn-header-actions new-games" data-menu="newgames" href="#">
+              New Games
+            <span class="sub-title">
+                Next in&nbsp;
+              <span class="release-countdown" data-animation-frequency="4" data-game-frequency="2">00:00</span>
+            </span>
+          </a><!--
+
+          --><div class="newgames-menu sub-menu">
+            <div class="newgames-container">
+  <ul>
+    <li>
+      <a class="new_games" href="https://www.y8.com/new/games">
+        <div class="name">
+            Newest Games
+        </div>
+        <div id="new-items-count-next-in" class="number">
+          Next addition in
+          <span class="release-countdown" data-animation-frequency="4" data-game-frequency="2">00:00</span>
+        </div>
+</a>    </li>
+    <li class="hr"></li>
+    <li>
+      <a class="best_new_games" href="https://www.y8.com/games/best">
+        <div class="name">
+            Best New Games
+        </div>
+        <div id="new-items-count-best-games" class="number">
+            Best games from last 2 months
+        </div>
+</a>    </li>
+  </ul>
+</div>
+
+          </div><!--
+
+          --><a class="fake-button js-top-menu two-lines btn-header-actions browse" data-menu="browse" href="#">
+            Categories
+            <span class="sub-title">
+              &amp; more
+            </span>
+            <div class="with-notification"></div>
+          </a><!--
+
+          --><div class="browse-menu sub-menu">
+              <div class="browse-container">
+
+  <div class="label-uppercase">
+    LIBRARY
+  </div>
+
+  <ul>
+    <li>
+      <a class="new_games" href="https://www.y8.com/new/games">
+        <div class="name">
+            New Games
+        </div>
+        <div id="new-items-count-next-in-browse" class="number">
+          Next in
+          <span class="release-countdown" data-animation-frequency="4" data-game-frequency="2">00:00</span>
+        </div>
+</a>    </li>
+
+    <li>
+      <a class="best_new_games" href="https://www.y8.com/games/best">
+        <div class="name">
+            Best of new games
+        </div>
+        <div id="new-items-count-best-page" class="number">
+          716
+          games
+        </div>
+</a>    </li>
+
+    <li>
+      <a class="popular_games" href="https://www.y8.com/popular/games">
+        <div class="name">
+            Most Popular Games
+        </div>
+        <div id="new-items-count-popular-page" class="number">
+          24657
+          games
+        </div>
+</a>    </li>
+
+    <li>
+      <a class="played_games visited_items" style="text-decoration:none;" href="/profile/played_games">
+        <div class="name">Played Games</div>
+        <div id="visited-items-count" class="number"></div>
+</a>    </li>
+
+    <li>
+      <a class="liked_games liked_items" style="text-decoration:none;" href="/profile/liked_games">
+        <div class="name">Liked Games</div>
+        <div id="liked-items-count" class="number"></div>
+</a>    </li>
+
+      <li>
+        <a class="recommended_games recommended_items" style="text-decoration:none;" href="/profile/recommended_games">
+          <div class="name">Recommended Games</div>
+          <div id="recommended-items-count" class="number"></div>
+</a>      </li>
+  </ul>
+
+  <hr>
+
+  <div class="label-uppercase">
+    CATEGORIES
+  </div>
+
+  <ul>
+  <!-- DO NOT CHANGE THIS : -->
+    <li class="inactive girls li-category">
+      <a class="girls" title="For Girls" href="/categories/girls"><span class="name">For Girls</span>
+<span class="number">24,783 games</span>
+</a>
+</li>    <li class="inactive driving_racing li-category">
+      <a class="driving_racing" title="Driving &amp; Racing" href="/categories/driving_racing"><span class="name">Driving &amp; Racing</span>
+<span class="number">6,733 games</span>
+</a>
+</li>    <li class="inactive strategy li-category">
+      <a class="strategy" title="Strategy &amp; RPG" href="/categories/strategy"><span class="name">Strategy &amp; RPG</span>
+<span class="number">3,661 games</span>
+</a>
+</li>    <li class="inactive management li-category">
+      <a class="management" title="Management &amp; Sim" href="/categories/management"><span class="name">Management &amp; Sim</span>
+<span class="number">4,351 games</span>
+</a>
+</li>    <li class="inactive thinking li-category">
+      <a class="thinking" title="Thinking" href="/categories/thinking"><span class="name">Thinking</span>
+<span class="number">13,523 games</span>
+</a>
+</li>    <li class="inactive action_adventure li-category">
+      <a class="action_adventure" title="Action &amp; Adventure" href="/categories/action_adventure"><span class="name">Action &amp; Adventure</span>
+<span class="number">15,496 games</span>
+</a>
+</li>    <li class="inactive sports li-category">
+      <a class="sports" title="Sports" href="/categories/sports"><span class="name">Sports</span>
+<span class="number">3,559 games</span>
+</a>
+</li>    <li class="inactive shooting li-category">
+      <a class="shooting" title="Shooting" href="/categories/shooting"><span class="name">Shooting</span>
+<span class="number">9,385 games</span>
+</a>
+</li>    <li class="inactive fighting li-category">
+      <a class="fighting" title="Fighting" href="/categories/fighting"><span class="name">Fighting</span>
+<span class="number">2,120 games</span>
+</a>
+</li>    <li class="inactive skill li-category">
+      <a class="skill" title="Skill" href="/categories/skill"><span class="name">Skill</span>
+<span class="number">13,054 games</span>
+</a>
+</li>    <li class="inactive arcade_classic li-category">
+      <a class="arcade_classic" title="Arcade &amp; Classic" href="/categories/arcade_classic"><span class="name">Arcade &amp; Classic</span>
+<span class="number">11,005 games</span>
+</a>
+</li>    <li class="inactive fun li-category">
+      <a class="fun" title="Fun &amp; Crazy" href="/categories/fun"><span class="name">Fun &amp; Crazy</span>
+<span class="number">5,067 games</span>
+</a>
+</li>  <!-- END OF : DO NOT CHANGE THIS -->
+  </ul>
+
+</div>
+
+
+<div class="sub-menu-footer sub-menu-footer-grey">
+  <!-- DO NOT CHANGE THIS, NEITHER IT'S CONTENT -->
+    <div class="stats">
+  <div class="text-uppercase">
+    Play with friends <br />
+    Powered by Y8 Account
+  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_account/multiplayer">
+      <div class="number">
+        147
+      </div>
+      <div class="description">
+        Y8 Multiplayer
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_highscore">
+      <div class="number">
+        2,272
+      </div>
+      <div class="description">
+        Y8 High Score
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_achievements">
+      <div class="number">
+        1,382
+      </div>
+      <div class="description">
+        Y8 Achievements
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_screenshot">
+      <div class="number">
+        986
+      </div>
+      <div class="description">
+        Y8 Screenshots
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_save">
+      <div class="number">
+        1,871
+      </div>
+      <div class="description">
+        Y8 Online Save
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+
+  <div class="stat">
+    <a href="/tags/y8_account">
+      <div class="number">
+        3,597
+      </div>
+      <div class="description">
+        All Y8 Games
+      </div>
+      <div>
+        Games
+      </div>
+</a>  </div>
+</div>
+
+      <div class="last-highscore">
+    <div class="text-uppercase" style="padding:0;">Last Highscore:</div>
+    <div class="author-points">
+      <p>
+        <a target="_blank" rel="nofollow" href="/users/5956c5b0e694aa3d28fee1ad/zerpa">
+          <img alt="zerpa avatar" src="https://cdn.y8.com/profile_pictures/60cbe545b4439c4b28901ae7-large.jpg" />
+</a>        <b>1,969</b>
+        points on
+        <a target="_blank" rel="noreferrer" href="https://www.y8.com/games/orion_sandbox_enhanced">Orion Sandbox Enhanced</a>
+        by
+        <a target="_blank" rel="nofollow" href="/users/5956c5b0e694aa3d28fee1ad/zerpa">zerpa</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="footer-links-box"><div class="social-link-box">
+  <div class="help-us-improve-box">
+    <div class="label-uppercase" >
+      Help us improve
+    </div>
+    <a class="translate-report" rel="nofollow" href="https://www.y8.com/contact/new">Bad translation?</a>
+  </div>
+
+  <div class="label-uppercase" >
+    Social
+  </div>
+
+  <div class="twitter-widget social-widget">
+  <a href="https://twitter.com/y8_com" class="twitter-follow-button" target="_blank" rel="noreferrer nofollow">
+    Follow us
+  </a>
+</div>
+
+
+  <div class="instagram-widget social-widget">
+  <a href="https://www.instagram.com/y8.games/" class="instagram-follow-button" target="_blank" rel="noreferrer nofollow">
+    <img src="https://img-hws.y8.com/assets/y8/instagram-dc22557a2b9c2b70f1e1fc4295ff614d2573ef5f178793bc6926f20624ba374b.png" alt="Instagram">
+  </a>
+</div>
+
+  <div class="facebook-widget social-widget">
+  <a href="https://www.facebook.com/Y8-Games-225100494185683/" class="facebook-follow-button" target="_blank" rel="noreferrer nofollow">
+    Follow us
+  </a>
+</div>
+
+</div>
+
+<ul class="nav nav-sidebar others">
+  <li><form action='https://www.y8.com/tags' method='get' class='link-to-form'><input type='submit' name='commit' value='All Tags'></form></li>
+  <li><a href="https://static.y8.com/upload">Upload</a></li>
+  <li><a href="https://www.y8.com/games_for_your_website">Game Publishers</a></li>
+  <li><a rel="nofollow" href="/studios">Game Studios</a></li>
+  <li><a rel="nofollow" href="https://www.y8.com/download-app">Download App</a></li>
+  <li><form action='https://www.y8.com/privacy' method='get' class='link-to-form'><input type='submit' name='commit' value='Privacy Policy'></form></li>
+  <li><form action='https://www.y8.com/cookie-policy' method='get' class='link-to-form'><input type='submit' name='commit' value='Cookie Policy'></form></li>
+  <li><form action='https://www.y8.com/terms' method='get' class='link-to-form'><input type='submit' name='commit' value='Terms of Use'></form></li>
+  <li><a href="https://blog.y8.com/">Blog</a></li>
+  <li><a href="https://forum.y8.com">Forum</a></li>
+  <li style="background-image: none;"><a rel="nofollow" href="https://www.y8.com/revshare">Game Developers</a></li>
+</ul>
+</div>
+  <!-- END OF :  DO NOT CHANGE THIS, NEITHER IT'S CONTENT -->
+</div>
+
+          </div><!--
+
+          --><div class="waiting-idnet">
+
+              <div id="user_not_logged_in" style="display:none;">
+                <button type="button" class="fake-button fake-button-red idnet-fast-register-link">
+                  Register
+                </button><!--
+                --><button type="button" class="fake-button idnet-fast-login-link">
+                  Log in
+                </button>
+              </div>
+
+              <div id="user_logged_in" style="display:none;">
+                <a class="fake-button js-top-menu user-toggle" data-menu="account" href="#">
+                  <img class="avatar" src="https://img-hws.y8.com/assets/y8/default_avatar-91f09b24bfab1b9162a1bc1f31a475a1b55461b0a3cae889628f407a8fe0b77f.jpg" />
+</a>
+                <div class="links-container-container">
+                  <div class="links-container sub-menu" style="display:none;">
+                    <div class="sub-menu-header">
+                      <span class="username username_box">
+                        My Profile
+                      </span>
+                      <span class="js-user-idnet-points"></span>
+                      <span class="points">points</span>
+                    </div>
+                    <ul>
+                      <li><a class="account-menu-link" id="account-menu-link-profile" href="#">My Profile</a></li>
+                      <li>
+                        <a target="blank" class="account-menu-link" id="account-menu-link-edit-profile" href="#">Edit Profile</a>
+                      </li>
+                      <li>
+                        <a class="account-menu-link" id="account-menu-link-games" href="#">
+                          Favorites
+                          (<span class="js-favorites-count"></span>)
+</a>                      </li>
+                      <li>
+                        <a class="account-menu-link" id="account-menu-link-visited" destination="/profile/played_games" href="#">
+                          Played Games
+</a>                      </li>
+                      <li>
+                        <a class="account-menu-link" id="account-menu-link-my-revenue" destination="/profile/revenue_share" style="display: none;" href="#">
+                          My Revenue
+</a>                      </li>
+                      <li>
+                        <a class="account-menu-link" id="account-menu-link-see-my-studio" destination="/my-studio/my-studio-slug" style="display: none;" href="#">
+                          See my studio
+</a>                      </li>
+                      <li>
+                        <a class="account-menu-link" id="account-menu-link-edit-my-studio" destination="/my-studio/my-studio-slug/edit" style="display: none;" href="#">
+                          Edit my studio
+</a>                      </li>
+                    </ul>
+                    <div class="sub-menu-footer">
+                      <ul>
+                        <li>
+                          <a class="account-menu-link logout" style="margin:0;" href="#">Log out</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          </div><!--
+
+          --><div class="fake-button parental-control">
+            <div class="js-top-menu parental-control-link" data-menu="parental"></div>
+            <a class="parental-control-link-hidden" data-remote="true" href="/parental_filters/new"></a>
+          </div><!--
+          --><div id="parental-filter-form" class="parental-filter-form sub-menu"></div><!--
+
+          --><div id="locale-selector-dropdown" class='locale-selector-dropdown fake-button'>
+                 <ul>
+    <li>
+  <a class="en locale-chooser js-top-menu" aria-label="Language selector" data-menu="locale" href="#">
+      <div class="flag en">&nbsp;</div>
+    <div class="locale-name">English</div>
+</a></li>
+
+  </ul>
+  <div class="locales-container-container locales-container sub-menu">
+    <ul>
+      <li>
+  <a class="en locale-link" aria-label="Language selector" href="https://www.y8.com">
+      <div class="flag en">&nbsp;</div>
+    <div class="locale-name">English</div>
+</a></li>
+<li>
+  <a class="ru locale-link" aria-label="Language selector" href="https://ru.y8.com">
+      <div class="flag ru">&nbsp;</div>
+    <div class="locale-name">Руcский</div>
+</a></li>
+<li>
+  <a class="fr locale-link" aria-label="Language selector" href="https://fr.y8.com">
+      <div class="flag fr">&nbsp;</div>
+    <div class="locale-name">Français</div>
+</a></li>
+<li>
+  <a class="de locale-link" aria-label="Language selector" href="https://de.y8.com">
+      <div class="flag de">&nbsp;</div>
+    <div class="locale-name">Deutsch</div>
+</a></li>
+<li>
+  <a class="it locale-link" aria-label="Language selector" href="https://it.y8.com">
+      <div class="flag it">&nbsp;</div>
+    <div class="locale-name">Italiano</div>
+</a></li>
+<li>
+  <a class="el locale-link" aria-label="Language selector" href="https://el.y8.com">
+      <div class="flag el">&nbsp;</div>
+    <div class="locale-name">Ελληνικά</div>
+</a></li>
+<li>
+  <a class="he locale-link" aria-label="Language selector" href="https://he.y8.com">
+      <div class="flag he">&nbsp;</div>
+    <div class="locale-name">עברית</div>
+</a></li>
+<li>
+  <a class="hi locale-link" aria-label="Language selector" href="https://hi.y8.com">
+      <div class="flag hi">&nbsp;</div>
+    <div class="locale-name">हिंदी</div>
+</a></li>
+<li>
+  <a class="ro locale-link" aria-label="Language selector" href="https://ro.y8.com">
+      <div class="flag ro">&nbsp;</div>
+    <div class="locale-name">Română</div>
+</a></li>
+<li>
+  <a class="es locale-link" aria-label="Language selector" href="https://es.y8.com">
+      <div class="flag es">&nbsp;</div>
+    <div class="locale-name">Español</div>
+</a></li>
+<li>
+  <a class="tl locale-link" aria-label="Language selector" href="https://tl.y8.com">
+      <div class="flag tl">&nbsp;</div>
+    <div class="locale-name">Tagalog</div>
+</a></li>
+<li>
+  <a class="th locale-link" aria-label="Language selector" href="https://th.y8.com">
+      <div class="flag th">&nbsp;</div>
+    <div class="locale-name">ไทย</div>
+</a></li>
+<li>
+  <a class="zh locale-link" aria-label="Language selector" href="https://zh.y8.com">
+      <div class="flag zh">&nbsp;</div>
+    <div class="locale-name">中文</div>
+</a></li>
+<li>
+  <a class="nl locale-link" aria-label="Language selector" href="https://nl.y8.com">
+      <div class="flag nl">&nbsp;</div>
+    <div class="locale-name">Nederlands</div>
+</a></li>
+<li>
+  <a class="vi locale-link" aria-label="Language selector" href="https://vi.y8.com">
+      <div class="flag vi">&nbsp;</div>
+    <div class="locale-name">Việt</div>
+</a></li>
+<li>
+  <a class="tr locale-link" aria-label="Language selector" href="https://tr.y8.com">
+      <div class="flag tr">&nbsp;</div>
+    <div class="locale-name">Türkçe</div>
+</a></li>
+<li>
+  <a class="pt locale-link" aria-label="Language selector" href="https://pt.y8.com">
+      <div class="flag pt">&nbsp;</div>
+    <div class="locale-name">Português</div>
+</a></li>
+<li>
+  <a class="pl locale-link" aria-label="Language selector" href="https://pl.y8.com">
+      <div class="flag pl">&nbsp;</div>
+    <div class="locale-name">Polski</div>
+</a></li>
+<li>
+  <a class="ko locale-link" aria-label="Language selector" href="https://ko.y8.com">
+      <div class="flag ko">&nbsp;</div>
+    <div class="locale-name">한국어</div>
+</a></li>
+<li>
+  <a class="ja locale-link" aria-label="Language selector" href="https://ja.y8.com">
+      <div class="flag ja">&nbsp;</div>
+    <div class="locale-name">日本語</div>
+</a></li>
+<li>
+  <a class="id locale-link" aria-label="Language selector" href="https://id.y8.com">
+      <div class="flag id">&nbsp;</div>
+    <div class="locale-name">Indonesia</div>
+</a></li>
+<li>
+  <a class="ar locale-link" aria-label="Language selector" href="https://ar.y8.com">
+      <div class="flag ar">&nbsp;</div>
+    <div class="locale-name">العربية</div>
+</a></li>
+
+    </ul>
+  </div>
+
+            </div>
+
+            <div class="mobile-header-block">
+              <div class="games-videos-switch game">
+  <a href="https://www.y8.com/anim">
+    <div class="games-link">games</div>
+    <div class="videos-link">videos</div>
+  </a>
+</div>
+
+              <div class="popular-newest-games-links">
+    <a class="games-link new-game fake-button" href="https://www.y8.com/new/games">New Games</a>
+    <a class="games-link pop-game fake-button" href="https://www.y8.com/games/best">Most Popular Games</a>
+</div>
+
+
+            </div>
+        </div>
+      </div>
+
+      <div id="flash-messages-box" class="flash-messages-box">
+        <div class="flash-notice">
+  <div class="container">
+    <div id="flash-notice" class="flash"></div>
+    <div class="close">&#215;</div>
+  </div>
+</div>
+
+<div class="flash-alert">
+  <div class="container">
+    <div id="flash-alert" class="flash flash-alert"></div>
+    <div class="close">&#215;</div>
+  </div>
+</div>
+
+      </div>
+    </nav>
+
+    <div class="container">
+      
+
+<div id="error_page" class="box">
+
+  <h1>Page not found</h1>
+
+  <p>The page you are looking for doesn&#39;t exist.</p>
+  <a href="/">Visit the Home page</a>
+
+  <div class="center_search">
+    <p>Try using the search to find what you are looking for:</p>
+    <form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input type="text" name="q" id="q" size="12" class="query left" />
+      <input type="submit" value="Search" class="button red medium right" data-disable-with="Search" />
+</form>  </div>
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18828733-1']);
+  _gaq.push(['_setDomainName', 'y8.com']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackEvent', 'Error', '404', document.URL]);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</div>
+
+    </div>
+
+    <div class="header-menu-modal" style="display:none"></div>
+
+    <footer class="footer">
+  <div class="container">
+
+
+    <div class="bottom-section">
+      <div class="logo-container">
+        <a class="no-event" aria-label="logo" href="https://www.y8.com/"><img width="67" height="30" src="https://img-hws.y8.com/assets/y8/header-logo-b39e5071cb111465fc5a5aef6496121adfcb414692d067f967434d9d80418afc.svg" />
+</a>
+        <span>© 2021 Y8.COM.</span>
+        <span>All rights reserved.</span>
+      </div>
+      <div class="menu-games">
+        <div class="title">
+          Y8 Games
+        </div>
+        <ul>
+          <li><a href="https://www.y8.com/new/games">New Games</a></li>
+          <li><a href="https://static.y8.com/upload">Upload</a></li>
+          <li><form action='https://www.y8.com/games/tags' method='get' class='link-to-form'><input type='submit' name='commit' value='All Tags'></form></li>
+          <li><a href="https://www.y8.com/games/best">Best of New</a></li>
+          <li><a href="https://www.y8.com/popular/games">Most Popular</a></li>
+          <li><a rel="nofollow" href="https://www.y8.com/download-app">Download App</a></li>
+        </ul>
+      </div>
+      <div class="menu-updates">
+        <div class="title">
+          Updates
+        </div>
+        <ul>
+          <li><a href="https://blog.y8.com/">Blog</a></li>
+          <li><a href="https://forum.y8.com">Forum</a></li>
+          <li><a href="https://twitter.com/y8_com" target="_blank" rel="noreferrer nofollow">Twitter</a></li>
+          <li><a href="https://www.facebook.com/Y8-Games-225100494185683/" target="_blank" rel="noreferrer nofollow">Facebook</a></li>
+          <li><a href="https://www.instagram.com/y8.games/" target="_blank" rel="noreferrer nofollow">Instagram</a></li>
+          <li><a href="https://discord.gg/ba9yXhj" target="_blank" rel="noreferrer nofollow">Discord</a></li>
+        </ul>
+      </div>
+      <div class="menu-company">
+        <div class="title">
+          Company
+        </div>
+        <ul>
+          <li><form action='https://www.y8.com/terms' method='get' class='link-to-form'><input type='submit' name='commit' value='Terms of Use'></form></li>
+          <li><form action='https://www.y8.com/privacy' method='get' class='link-to-form'><input type='submit' name='commit' value='Privacy Policy'></form></li>
+          <li><form action='https://www.y8.com/cookie-policy' method='get' class='link-to-form'><input type='submit' name='commit' value='Cookie Policy'></form></li>
+          <li><a href="https://www.y8.com/games_for_your_website">Game Publishers</a></li>
+          <li><a rel="nofollow" href="https://www.y8.com/revshare">Game Developers</a></li>
+          <li><form action='https://www.y8.com/contact/new' method='get' class='link-to-form'><input type='submit' name='commit' value='Contact Form'></form></li>
+          <li><a href="mailto:y8@webgroup-limited.com" target="_blank" rel="noreferrer nofollow">
+            Email Us
+        </a></li>
+        </ul>
+      </div>
+      <div class="follow-us">
+        <div class="title">
+          Follow us
+        </div>
+        <ul>
+          <li>
+            <a href="https://twitter.com/y8_com" target="_blank" rel="noreferrer nofollow" aria-label="twitter">
+              <img src="https://img-hws.y8.com/assets/svg/twitter-40437c6680e014b927c22e09bae7da5f3317948f71fae4e5daee25eb20c63176.svg" width="18" height="14" alt="twitter" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/Y8-Games-225100494185683/" target="_blank" rel="noreferrer nofollow" aria-label="facebook">
+              <img src="https://img-hws.y8.com/assets/svg/facebook-807ac7b9c731fd2695350e3c8bf65954582dfeacf87bd8a73ab38e0153543daf.svg" width="18" height="18" alt="facebook" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/y8.games/" target="_blank" rel="noreferrer nofollow" aria-label="instagram">
+              <img src="https://img-hws.y8.com/assets/svg/instagram-270989005465900b957b5c234169591ea33e43d5f12a3fd7131f486cf6577cfc.svg" width="18" height="18" alt="instagram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://discord.gg/ba9yXhj" target="_blank" rel="noreferrer nofollow" aria-label="discord">
+              <img src="https://img-hws.y8.com/assets/svg/discord-5fbfb24610991c5e17e89bc628ce593d2f4cfa61b1aa2d12ba7e318728caf974.svg" width="18" height="14" alt="discord" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-image">
+        <picture>
+          <source srcset="https://img-hws.y8.com/assets/y8/footer_image1-422cedcbdbcd68bb2fbf253eafac355ee154ba97da9ad3c587d2e2052b8d7821.webp" type="image/webp">
+          <img src="https://img-hws.y8.com/assets/y8/footer_image1-ab3f4d628a18db50d9cc87b2b1cd3a711da0250459d3f1f30080cfebde8e9582.png" alt="footer image">
+        </picture>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <div class="dark-overlay"></div>
+
+    
+    <div class="policy-validation" id="policy-validation" style="display:none;">
+    <div class="logo">
+      <img src="https://img-hws.y8.com/assets/y8/header-logo-b39e5071cb111465fc5a5aef6496121adfcb414692d067f967434d9d80418afc.svg" />
+
+    </div>
+
+  <div class="content">
+    We use cookies for content recommendations, traffic measurement, and personalized ads. By using this website, you agree to the <a target="_blank" rel="nofollow" href="https://www.y8.com/privacy">Privacy Policy</a> and <a target="_blank" rel="nofollow" href="https://www.y8.com/cookie-policy">Cookie Policy</a>.
+  </div>
+
+  <div class="actions">
+    <a class="validate-policy" href="#">Got it</a>
+  </div>
+</div>
+
+    <script>
+//<![CDATA[
+
+  var triggerSuccess = function(){
+    if (document.location.pathname.match(/^\/login|^\/register/))
+    {
+      window.location.replace('/');
+    }
+    else
+    {
+      window.location.reload(true);
+    };
+  };
+  var triggerFailure = function(){
+    window.location.reload(true);
+  };
+
+  window.idAsyncInit = function(){
+    var query = document.location.search.substring(1);
+    var obj = {}, vars = query.split('&');
+    var pairs, key, val, ln = vars.length, enableTrack = false;
+
+    if (ln > 0) {
+      for (var i = 0; i < ln; i++) {
+        pairs = vars[i].split('=');
+        key = decodeURIComponent(pairs[0]);
+        val = decodeURIComponent(pairs[1]);
+
+        if (key === 'utm_source') {
+          enableTrack = true;
+        }
+
+        obj[key] = val;
+      }
+      enableTrack && ID.track && ID.track(obj);
+    }
+
+    var idnetRedirectUri = document.location.protocol + '//' + document.location.host + '/auth/idnet/callback';
+
+    // Use an Y8 Account event to wait until after init
+    // CF https://doc.y8.com/docs/javascript/the-basics/
+    //
+    ID.Event.subscribe('id.init', function() {
+      // Any other script may listen to that event and wait for Y8 Account
+      // initialization:
+      //
+      //   $(window).on('id.init', function() {
+      //     // some Y8 Account related code
+      //   });
+      //
+      $(window).trigger('id.init');
+
+      // copied from account.y8.com/sdk/scripts.id.js:48
+      // UserAgent.safari() returns 537.36 on my Ubuntu Chrome :/
+      // OPTIMIZE: fix UserAgent library or move this method to an object.
+      function safari() {
+        return navigator.userAgent.indexOf('Safari') != -1 &&
+          navigator.userAgent.indexOf('Chrome') == -1;
+      }
+
+      var idnetOptions = safari() ? { redirect_uri: idnetRedirectUri + '?origin=' + encodeURIComponent(location.pathname + location.search) } : {};
+
+      $('.idnet-fast-login-link').on('click', function(){
+        // Y8 Account tests if the browser is Safari.
+        // If no: usual login approach, using the modal
+        // If yes: OAuth recommended approach, redirecting the client
+        //
+        // Because Safari does not allow cross-domain cookies.
+        //
+        // Also, this is not the default Y8 Account behavior because we don't want
+        // to break the user experience and end a game session by redirecting
+        // the user. This is why the choice if up to the client (using regular
+        // ID.login() or ID.safariFixLogin() method).
+        //
+        ID.safariFixLogin(null, idnetOptions);
+        _gaq.push (['_trackEvent', 'Authentication', 'login']);
+        $(document).trigger('checkOverlayMenus');
+      });
+      $('.idnet-fast-register-link').on('click', function(){
+        ID.safariFixRegister(null, idnetOptions);
+        _gaq.push (['_trackEvent', 'Authentication', 'register']);
+        $(document).trigger('checkOverlayMenus');
+      });
+    });
+
+    ID.Event.subscribe('auth.authResponseChange', function(auth) {
+      $(window).trigger('auth.authResponseChange');
+    });
+
+    ID.init({
+     appId: '4fbb62b133968d57c10041b0',
+     redirectUri: idnetRedirectUri,
+     responseType: 'code'
+    });
+  };
+  (function () {
+    var idnet = document.createElement('script');
+    idnet.type = 'text/javascript';
+    idnet.async = true;
+    idnet.sucess = triggerSuccess;
+    idnet.error = triggerFailure;
+    idnet.src = 'https://cdn.y8.com/api/sdk.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(idnet, s);
+  })();
+
+//]]>
+</script>
+    <script id="live-search-template" type="text/x-handlebars-template">
+  <li>
+    <a href="{{path}}">
+      <img src="{{thumbnail}}" class="thumb">
+      {{name}}
+    </a>
+  </li>
+</script>
+
+
+    
+
+      <script>
+//<![CDATA[
+
+    window.Settings = window.Settings || {};
+    Settings.ga_account = "UA-18828733-1";
+    Settings.ga_domain = ".y8.com";
+    Settings.ga_sample_rate = 10;
+    window.google_analytics_uacct = "UA-18828733-1";
+    window.google_analytics_domain_name = ".y8.com";
+
+//]]>
+</script>
+    <script>
+//<![CDATA[
+
+  // initialize google analytics
+  document.addEventListener("DOMContentLoaded", function(event) {
+    window._gaq = window._gaq || [];
+    _gaq.push(['_setAccount', Settings.ga_account]);
+
+    if (Settings.ga_domain) {
+      _gaq.push(['_setDomainName', Settings.ga_domain]);
+    }
+
+    _gaq.push(['_setSampleRate', window.Settings.ga_sample_rate]);
+    _gaq.push(['_trackPageview']);
+
+      // insert google analytics lib
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == window.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+  });
+
+//]]>
+</script>
+      <!-- Yandex.Metrika counter -->
+<script>
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter = new Ya.Metrika({
+                    id:45364173,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+
+                var sessionParams = {
+                    user_status: Cookies.get('logged_in') ? 'member' : 'guest',
+                    os64bit: OSDetector.bit64.toString(),
+                    ad_block_ext: window.adBlockDetected === undefined,
+                      http_code: '404',
+
+                };
+
+                w.yaCounter.params(sessionParams);
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>
